@@ -1,0 +1,5 @@
+projectKey=com.capgemini.sonarqube:SonarQube
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.capgemini.sonarqube:SonarQube
+ceTaskId=AWTqANmScn6q1VBJ3cx2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWTqANmScn6q1VBJ3cx2
